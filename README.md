@@ -2,6 +2,8 @@
 
 Welcome to my first Unity game project! This is a 2D platformer that I've been working on as a learning experience. It's not yet complete, but I've made significant progress and wanted to share it with the community.
 
+**Note:** This project was version-controlled using Unity's Plastic SCM. However, I've uploaded it to GitHub for easier sharing and accessibility.
+
 ## About the Game
 
 This game is a classic 2D platformer where the player navigates through various levels, overcoming obstacles and challenges. I've implemented several features and mechanics using C# scripts to bring the game to life.
